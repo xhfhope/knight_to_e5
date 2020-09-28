@@ -12,5 +12,7 @@ Then use your voice to play. A command like "e2 e4" isn't a bad start as white.
 ### Dependencies
 
 pyautogui
+
 speech_recognition
+
 win32gui
