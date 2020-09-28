@@ -1,7 +1,7 @@
 # knight_to_e5
 Play chess anywhere using voice recognition.
 
-![Image of Yaktocat](https://imgur.com/7eOqQxT)
+![Image of Yaktocat](https://i.imgur.com/7eOqQxT.gif)
 
 #Usage
 Board bounds and square positions are manually defined when the program starts. When prompted, click the bottom left square of the board. Then click the top-right square of the board. That's it!
